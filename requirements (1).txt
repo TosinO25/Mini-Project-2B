@@ -1,0 +1,19 @@
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+scipy>=1.7.0
+scikit-learn>=1.0.0
+seaborn>=0.11.0
+jupyter>=1.0.0
+openpyxl>=3.6.0
+
+# Choose ONE of these deep learning frameworks:
+# TensorFlow/Keras (recommended, easier to use):
+tensorflow>=2.8.0
+
+# OR PyTorch (if you prefer PyTorch):
+# torch>=1.10.0
+# torchvision>=0.11.0
+
+# For Kaggle dataset download:
+kaggle>=1.5.0
